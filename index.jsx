@@ -8,9 +8,10 @@ import VanDetail from "./pages/Vans/VanDetail"
 import Dashboard from "./pages/Host/Dashboard"
 import Income from "./pages/Host/Income"
 import Reviews from "./pages/Host/Reviews"
+import HostVans from "./pages/Host/HostVans"
+import HostVanDetail from "./pages/Host/HostVanDetail"
 import Layout from "./components/Layout"
 import HostLayout from "./components/HostLayout"
-
 import "./server"
 
 function App() {
